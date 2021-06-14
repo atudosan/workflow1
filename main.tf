@@ -16,7 +16,7 @@ terraform {
     organization = "atudosan"
 
     workspaces {
-      name = "gh-actions-demo"
+      name = "workflow1"
     }
   }
 }
